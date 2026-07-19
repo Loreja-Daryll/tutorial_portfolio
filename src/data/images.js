@@ -18,10 +18,10 @@ export function localImage(filename) {
 
 export const images = {
   // Hero — circular profile photo, top-right
-  heroProfile: localImage("hero.jpg"),
+  heroProfile: localImage("pic2.jpg"),
 
   // "Who is [Name]?" — arched-top candid/work photo
-  whoIsMe: localImage("pic2.jpg"),
+  whoIsMe:  localImage("hero.jpg"),
 
   // "My Art" — 3 equal-width arched-top cards
   artPiece1: localImage("sunrise.jpg"),
